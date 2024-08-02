@@ -1,0 +1,36 @@
+{
+  "Elementos": [
+    {
+      "Nombre": "Funko The Flash",
+      "Precio": "299"
+    },
+    {
+      "Nombre": "Funko Clark Kent",
+      "Precio": "350"
+    },
+    {
+      "Nombre": "Funko Pietro Maximoff",
+      "Precio": "420"
+    },
+    {
+      "Nombre": "Funko Wanda",
+      "Precio": "320"
+    },
+    {
+      "Nombre": "Funko Deadpool",
+      "Precio": "249"
+    },
+    {
+      "Nombre": "Funko Jon Snow",
+      "Precio": "350"
+    },
+    {
+      "Nombre": "Funko Kid Flash",
+      "Precio": "400"
+    },
+    {
+      "Nombre": "Funko The Green Arrow",
+      "Precio": "320"
+    }
+  ]
+}
