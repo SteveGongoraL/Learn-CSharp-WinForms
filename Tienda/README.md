@@ -8,3 +8,4 @@
 Esto asegurará que todas las dependencias de tu proyecto se descarguen y configuren correctamente.
 
 ## Previsualización de la interfaz
+![Venta](https://github.com/user-attachments/assets/91f92211-0797-40a0-872d-c2425384ec5d)
