@@ -1,0 +1,36 @@
+{
+  "Elementos": [
+    {
+      "Nombre": "Preparatoria 25",
+      "Municipio": "Monterrey"
+    },
+    {
+      "Nombre": "Preparatoria 16",
+      "Municipio": "San Nicolas"
+    },
+    {
+      "Nombre": "Preparatoria 7 Oriente",
+      "Municipio": "San Nicolas"
+    },
+    {
+      "Nombre": "Preparatoria 7 Puentes",
+      "Municipio": "San Nicolas"
+    },
+    {
+      "Nombre": "Preparatoria 1",
+      "Municipio": "Apodaca"
+    },
+    {
+      "Nombre": "Preparatoria 22",
+      "Municipio": "Guadalupe"
+    },
+    {
+      "Nombre": "Preparatoria 3",
+      "Municipio": "Monterrey"
+    },
+    {
+      "Nombre": "Preparatoria 8",
+      "Municipio": "Guadalupe"
+    }
+  ]
+}

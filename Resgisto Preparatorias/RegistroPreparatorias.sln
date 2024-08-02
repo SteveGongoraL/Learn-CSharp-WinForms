@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistroPreparatorias", "RegistroPreparatorias.csproj", "{57119B49-F04B-41F4-BF5E-E20ED1546E73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57119B49-F04B-41F4-BF5E-E20ED1546E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57119B49-F04B-41F4-BF5E-E20ED1546E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57119B49-F04B-41F4-BF5E-E20ED1546E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57119B49-F04B-41F4-BF5E-E20ED1546E73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7930EB4-350B-4748-899C-056340D0A146}
+	EndGlobalSection
+EndGlobal
