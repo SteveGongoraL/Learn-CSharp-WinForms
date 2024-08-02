@@ -1,0 +1,24 @@
+{
+  "Elementos": [
+    {
+      "ID": 10,
+      "Puesto": "Finanzas"
+    },
+    {
+      "ID": 20,
+      "Puesto": "Recursos Humanos"
+    },
+    {
+      "ID": 30,
+      "Puesto": "Tecnologia de Informacion"
+    },
+    {
+      "ID": 40,
+      "Puesto": "Ventas"
+    },
+    {
+      "ID": 50,
+      "Puesto": "Produccion"
+    }
+  ]
+}
