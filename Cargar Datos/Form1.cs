@@ -40,7 +40,7 @@ namespace CargarDatos
 
             string json = JsonConvert.SerializeObject(_data.ToArray());
 
-            System.IO.File.AppendAllText(@".\Datos.json", json);
+            System.IO.File.AppendAllText(@"..\..\docs\DatosGuardados.json", json);
 
             MessageBox.Show("Se guardaron los datos de compra");
         }
@@ -64,7 +64,7 @@ namespace CargarDatos
         public class JsonOperations
         {
             public static ProductosC Read() =>
-            JsonConvert.DeserializeObject<ProductosC>(File.ReadAllText("ProductosC.json"));
+            JsonConvert.DeserializeObject<ProductosC>(File.ReadAllText("..\\..\\docs\\CatalogoProductos.json"));
         }
         private void OnShown(object sender, EventArgs e)
         {

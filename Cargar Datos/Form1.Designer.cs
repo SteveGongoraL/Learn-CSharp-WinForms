@@ -81,6 +81,7 @@ namespace CargarDatos
             // 
             // comboBoxProducto
             // 
+            this.comboBoxProducto.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBoxProducto.FormattingEnabled = true;
             this.comboBoxProducto.Location = new System.Drawing.Point(141, 126);
             this.comboBoxProducto.Name = "comboBoxProducto";
