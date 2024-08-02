@@ -1,0 +1,34 @@
+{
+  "Productos": [
+    {
+      "Id": 10,
+      "Nombre": "Zapatos",
+      "Cantidad": 25
+    },
+    {
+      "Id": 20,
+      "Nombre": "Playera",
+      "Cantidad": 55
+    },
+    {
+      "Id": 30,
+      "Nombre": "Tenis",
+      "Cantidad": 35
+    },
+    {
+      "Id": 40,
+      "Nombre": "Sueter",
+      "Cantidad": 10
+    },
+    {
+      "Id": 50,
+      "Nombre": "Camisa",
+      "Cantidad": 30
+    },
+    {
+      "Id": 60,
+      "Nombre": "Pantalon",
+      "Cantidad": 40
+    }
+  ]
+}
