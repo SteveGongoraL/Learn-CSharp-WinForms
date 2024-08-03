@@ -22,6 +22,8 @@ docker container run -d -p 3309:3306 --name sistemaVentas -e MYSQL_ROOT_PASSWORD
 - `-p 3309:3306:` Mapea el puerto 3309 del contenedor al puerto 3306 de tu máquina.
 - `mysql:` Utiliza la última versión de la imagen de MySQL.
 Más información sobre Docker y MySQL: [Docker MySQL](https://hub.docker.com/_/mysql)
+> [!TIP]
+> En la carpeta `query` viene el archivo sql para crear la tabla del ejercicio
 
 ## Código CSharp
 > [!IMPORTANT]
