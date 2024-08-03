@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConexionDB", "ConexionDB.csproj", "{49C05B57-CDE8-4044-A56F-C18E22B25119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C05B57-CDE8-4044-A56F-C18E22B25119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C05B57-CDE8-4044-A56F-C18E22B25119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C05B57-CDE8-4044-A56F-C18E22B25119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C05B57-CDE8-4044-A56F-C18E22B25119}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68F9C666-FCA3-4C66-B21E-220DAC7D6318}
+	EndGlobalSection
+EndGlobal
